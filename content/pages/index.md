@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Skip pesky adlinks for FREE.
+      text: 'Quality Bypasser API, for FREE.'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
