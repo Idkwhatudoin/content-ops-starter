@@ -91,10 +91,11 @@ sections:
               borderRadius: x-large
       - title: Versatile
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We have a fully-fledged discord bot dedicated to bypassing using our
+          backend, so you don't even need the API to bypass really :) The
+          convenience also helps with server owners willing to use our services
+          without prior knowledge 
         image:
           url: /images/crvt.co-hexagon-1-bxl-discord-alt.png
           altText: Featured icon two
