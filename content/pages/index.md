@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Skip pesky adlinks and authentication systems for free
+      text: Skip pesky adlinks for FREE.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
