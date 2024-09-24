@@ -85,7 +85,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/crvt.co-hexagon-1-rocket-launch-solid.png
           styles:
             self:
               borderRadius: x-large
