@@ -95,7 +95,7 @@ sections:
           We have a fully-fledged discord bot dedicated to bypassing using our
           backend, so you don't even need the API to bypass really :) The
           convenience also helps with server owners willing to use our services
-          without prior knowledge 
+          without prior knowledge.
         image:
           url: /images/crvt.co-hexagon-1-bxl-discord-alt.png
           altText: Featured icon two
