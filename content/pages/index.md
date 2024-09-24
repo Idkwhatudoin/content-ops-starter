@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: '- What we put on the table -'
     items:
       - type: FeaturedItem
         title: Fast Completion
