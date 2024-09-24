@@ -186,7 +186,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       We provide a video with a easy-to-follow tutorial on how to bypass delta
       key system (platoboost) on a bypasser powered by XKeypass API. We are sure
