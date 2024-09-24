@@ -193,8 +193,8 @@ sections:
       this will help you 
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: How to Bypass Delta w/ XKeypass API Bot
+      url: 'https://youtu.be/qbhAowEIwBU?si=RJw1CaG10Yn87zVj'
       autoplay: true
       loop: true
       muted: true
