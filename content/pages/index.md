@@ -117,10 +117,10 @@ sections:
         type: FeaturedItem
       - title: 100% Free
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          All our services can be accessed by generating a free API key in the
+          discord server! You can use our API and Bypasser without breaking the
+          bank. Need more? We also have cheap plans tailored for you!
         image:
           url: /images/crvt.co-hexagon-1-credit-card-solid.png
           altText: Featured icon three
