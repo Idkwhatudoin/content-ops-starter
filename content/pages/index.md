@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Get Started For Free
         altText: ''
         url: 'https://discord.gg/3NAyJWKPXR'
         showIcon: false
