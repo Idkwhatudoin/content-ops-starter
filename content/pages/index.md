@@ -141,7 +141,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://discord.gg/3NAyJWKPXR'
         showIcon: false
         icon: arrowRight
         iconPosition: right
