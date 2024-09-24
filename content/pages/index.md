@@ -63,10 +63,10 @@ sections:
       - type: FeaturedItem
         title: Fast Completion
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our bypasser is sure to bypass your links in under 4s on average.
+          Making it ideal for quick use or on-the-go. So you can get back to the
+          crown straight away.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
