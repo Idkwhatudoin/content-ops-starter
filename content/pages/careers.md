@@ -16,7 +16,7 @@ sections:
       more! You can also interact with our community :)
     actions:
       - label: Join Now
-        url: /
+        url: 'https://discord.gg/3NAyJWKPXR'
         icon: arrowRight
         iconPosition: right
         style: primary
