@@ -10,8 +10,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: |
-      JJoin Our
+    text: >
+      Join our community server to get access to public APIs, 24/7 Support,
+      source codes, booster perks, bypasser bots, giveaways, service drops, and
+      more! You can also interact with our community :)
     actions:
       - label: See open positions
         url: /
