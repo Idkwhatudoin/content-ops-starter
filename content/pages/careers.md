@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       Join our community server to get access to public APIs, 24/7 Support,
       source codes, booster perks, bypasser bots, giveaways, service drops, and
