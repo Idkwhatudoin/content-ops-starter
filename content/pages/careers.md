@@ -15,7 +15,7 @@ sections:
       source codes, booster perks, bypasser bots, giveaways, service drops, and
       more! You can also interact with our community :)
     actions:
-      - label: See open positions
+      - label: Join Now
         url: /
         icon: arrowRight
         iconPosition: right
